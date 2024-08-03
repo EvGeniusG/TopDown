@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    public Transform minBound; // Минимальная граница области
-    public Transform maxBound; // Максимальная граница области
+    [SerializeField] Transform minBound;
+    [SerializeField] Transform maxBound;
 
     private Transform playerTransform;
     private Camera cam;
