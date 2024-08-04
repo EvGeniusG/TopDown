@@ -1046,7 +1046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2868509af86c040a7b37532788b08036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnInterval: 5
+  spawnInterval: 27
 --- !u!1 &590212667
 GameObject:
   m_ObjectHideFlags: 0
